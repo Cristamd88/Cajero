@@ -38,7 +38,7 @@ public class Ventana1 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(184, 184, 226));
+        jPanel1.setBackground(new java.awt.Color(0, 51, 153));
 
         jLabel1.setBackground(new java.awt.Color(0, 102, 204));
         jLabel1.setFont(new java.awt.Font("Sylfaen", 0, 24)); // NOI18N
